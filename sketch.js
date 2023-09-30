@@ -58,7 +58,7 @@ function setup() {
 
     bit = storedBit ? parseFloat(storedBit) : 0;
     eth= storedEth ? parseFloat(storedEth) :0;
-    usd= storedUsd ? parseFloat(storedUsd) :0;
+    usd= storedUsd ? parseFloat(storedUsd) :100;
     
 
 }
